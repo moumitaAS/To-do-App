@@ -55,6 +55,10 @@ input {
     cursor: pointer;
 }
 
+::placeholder{
+    color: #675555;
+}
+
 h1 {
     color: #dad7cd;
     margin-bottom: 15px;
